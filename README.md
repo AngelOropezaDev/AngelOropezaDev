@@ -2,7 +2,7 @@
 
 # Hola👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+nombre+es+Angel+Oropeza...;Desarrollador+Backend+Junior...;Node.js+%26+NestJS+Specialist..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+nombre+es+Angel+Oropeza...;Desarrollador+Backend...;Node.js+%26+NestJS+Specialist..."/>
 
 <p>
   <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="240" align="right" />
